@@ -1,7 +1,6 @@
-import javax.print.attribute.standard.PagesPerMinute;
 import javax.swing.*;
 
-public class OperadorAritmetico {
+public class OperadoresAritmeticos {
     public static void main(String[] args) {
 
         int i = 5, j = 4, suma = i + j;
